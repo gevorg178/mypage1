@@ -1,0 +1,180 @@
+body{
+	background-image: url("image/Light-Wood-Background-Wallpaper.jpg") ;
+	text-align: center;
+    float:center;
+	
+}
+
+nav{
+	float: left;
+	z-index: auto;
+	position: fixed;
+	left:0;
+	top:70px;
+	background-color: rgba(53,53,53, 0.7);
+	width:300px;
+	height:210px;
+	border-top-right-radius: 40px;
+	border-bottom-right-radius:40px;
+	padding:10px;
+}
+
+nav a{
+	text-decoration:none;
+	color:#ffffb8;
+	font-family: Arial;
+	font-size:20px;
+	padding: 10px;
+}
+
+nav a:hover{
+color:#FFA99E
+color:red;	
+border-radius:40px;	
+}
+
+hr{
+	border-color:brown;
+}
+
+main{
+	background-color:rgba(255,169,158,0.7);
+	border:2px solid #FFFFb8;
+	border-radius: 20px;
+}
+
+
+main span{
+	height: 200px;
+	width: 400px;
+	
+}
+
+main img{
+	position: realative;
+	left: 400px;
+	z-index: 5;
+	height: 150px;
+	width: 100px;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+}
+
+#countrydiv{
+  background-color: rgba(255,255,184, 0.8);
+}
+
+
+span{
+	display:inline-block;
+	margin-bottom: 20px;
+}
+
+#lol1{
+	background-color:orange;
+	text-decoration: none;
+	font-family: Comic Sans Ms;
+	border-radius:40px;
+	font-size:20px;
+}
+
+a:hover{
+	color:#444;
+}
+
+h1{
+	background-image: url ("image/lol.gif");
+	
+}
+
+
+h2{
+	font-family: forte;
+	color:FFAE99E
+}
+
+p{
+	font-family: Comic Sans Ms;
+	color: FFFFB8
+	margin-left: 70px;
+}
+
+
+img{
+	height: 150px;
+	width:150px;
+	float:center;
+	margin: 10%;
+	border: 1px soloid #333;
+	border-radius: 20px;
+}
+
+.jjwh{
+	text-decoration:none;
+	color:blue;
+	border-radius:40px;
+}
+
+.g{
+	text-decoration:none;
+	color:red;
+	border-radius:40px;
+}
+
+
+.ga{
+	text-decoration:none;
+	color:pink;
+	border-radius:40px;
+}
+
+
+.gab{
+	text-decoration:none;
+	
+}
+
+
+
+
+textarea{
+	width:600px;
+	height: 40px;
+	background-image: url("image/background-animated.gif");
+	border:none;
+	font-family: forte;
+	font-size:17px;
+	color:green;
+}
+
+button{
+	border-radius:40px;
+	color:green;
+}
+
+
+
+h2{
+	color:green;
+	margin-bottom:100px;
+	margin:10%;
+}
+
+
+#lol3{
+	border-radius:40px;
+	
+}
+
+.lol9{
+	text-decoration:none;
+	background-color:skyred;
+	color:yellow;
+	border-radius:40px;
+	font-family:Comic Sans Ms;
+}
+
+#about{
+	font-size:33px;
+	color:white;
+}
